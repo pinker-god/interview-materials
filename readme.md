@@ -1,4 +1,6 @@
-# interview-materials
+# interviews
+
+[![Build Status][build-badge]][build-status]
 
 面试资料整理
 
@@ -28,3 +30,6 @@
 ## Disclaimer
 
 资料来自网络, 如有侵权, 请联系本人立即删除.
+
+[build-badge]: https://img.shields.io/travis/pinker-god/interviews.svg
+[build-status]: https://travis-ci.org/pinker-god/interviews
